@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "339966306380",
+    "project_id": "signin-signup-4c0e6",
+    "storage_bucket": "signin-signup-4c0e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339966306380:android:005b6204952aa1de272ce9",
+        "android_client_info": {
+          "package_name": "com.example.handichatcraft_w1986581"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0QN-sggU_TNk0x50o54ZmUPrewmc9Nps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
